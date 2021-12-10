@@ -1,10 +1,9 @@
 package com.vermeg.g4;
 
-public class FirstClass {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 
 	}
 
