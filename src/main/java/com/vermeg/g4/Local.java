@@ -7,6 +7,11 @@ public class Local {
 	public Local() {
 		
 	}
+	public Local( String adr,String nom,String gov) {
+		adresse=adr;
+		this.name=nom;
+		this.gouvernement=gov;
+	}
 	
 	@Override
 	public int hashCode() {
