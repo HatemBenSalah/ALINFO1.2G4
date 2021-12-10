@@ -8,6 +8,7 @@ public class EtudiantAla {
 	
 	
 	//ala1
+	//ala2
 	
 	public EtudiantAla() {
 		
