@@ -6,6 +6,7 @@ import java.util.Objects;
 //modification numero2
 //modification numero3
 //modification numero3-1
+//modification numero4
 public class EcoleAmina {
 	private int id ; 
 	private String nom ; 
