@@ -3,6 +3,7 @@ package com.vermeg.g4;
 import java.util.Objects;
 // classe ll branch
 // modification numero1
+//modification numero2
 public class EcoleAmina {
 	private int id ; 
 	private String nom ; 
