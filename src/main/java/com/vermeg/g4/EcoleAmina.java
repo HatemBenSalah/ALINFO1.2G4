@@ -1,7 +1,7 @@
 package com.vermeg.g4;
 
 import java.util.Objects;
-
+// classe ll branch
 public class EcoleAmina {
 	private int id ; 
 	private String nom ; 
