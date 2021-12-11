@@ -62,5 +62,8 @@ public class EcoleAmina {
 		EcoleAmina other = (EcoleAmina) obj;
 		return id == other.id && num_tel == other.num_tel;
 	} 
-
+	public void methodeImen() {
+		System.out.println("imen");
+		
+	}
 }
