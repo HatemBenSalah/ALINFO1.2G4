@@ -68,6 +68,13 @@ public class Local {
 	public void setGouvernement(String gouvernement) {
 		this.gouvernement = gouvernement;
 	}
+	@Override
+	public String toString() {
+		return "Local [adresse=" + adresse + ", name=" + name + ", gouvernement=" + gouvernement + ", hashCode()="
+				+ hashCode() + ", getAdresse()=" + getAdresse() + ", getName()=" + getName() + ", getGouvernement()="
+				+ getGouvernement() + "]";
+	}
+	
 	
 
 }
