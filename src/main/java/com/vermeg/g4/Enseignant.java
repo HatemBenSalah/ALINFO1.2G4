@@ -32,7 +32,9 @@ public class Enseignant {
 	public String toString() {
 		return "Enseignant [id=" + id + ", nom=" + nom + ", prenom=" + prenom + "]";
 	}
-	
+	public void affichage() {
+		System.out.println("done");
+	}
 
 
 }
