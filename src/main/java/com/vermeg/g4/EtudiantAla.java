@@ -12,6 +12,7 @@ public class EtudiantAla {
 	//ala2
 	//modif 4 alkhls
 	//ajouter attribut et modifier to string et constructeurs. 
+	//5eme Modif dimanche
 	
 	public EtudiantAla() {
 		
