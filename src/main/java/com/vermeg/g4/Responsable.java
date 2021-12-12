@@ -58,6 +58,7 @@ public class Responsable {
 		return Objects.equals(date_naissance, other.date_naissance) && id == other.id && Objects.equals(nom, other.nom)
 				&& Objects.equals(prenom, other.prenom);
 	}
+	//3eme commit toString
 	@Override
 	public String toString() {
 		return "Responsable [id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", date_naissance=" + date_naissance + "]";
