@@ -63,6 +63,7 @@ public class Responsable {
 	public String toString() {
 		return "Responsable [id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", date_naissance=" + date_naissance + "]";
 	}
+	
 
 
 
