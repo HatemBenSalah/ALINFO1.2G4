@@ -4,7 +4,7 @@
   <artifactId>1alt2Gr4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-		<maven.compiler.target>12</maven.compiler.target>
-		<maven.compiler.source>12</maven.compiler.source>
+		<maven.compiler.target>16</maven.compiler.target>
+		<maven.compiler.source>16</maven.compiler.source>
 	</properties>
 </project>
