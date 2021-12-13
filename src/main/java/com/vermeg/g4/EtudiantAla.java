@@ -12,10 +12,15 @@ public class EtudiantAla {
 	//ala2
 	//modif 4 alkhls
 	//ajouter attribut et modifier to string et constructeurs. 
+<<<<<<< HEAD
 	//5eme 1Modif dimanchee
 	//5eme Modif dimanchek
 	//merge1
 
+=======
+	//5eme Modif dimanche
+	//merge
+>>>>>>> master
 	
 	public EtudiantAla() {
 		
