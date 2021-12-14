@@ -4,7 +4,12 @@
   <artifactId>1alt2Gr4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
+<<<<<<< HEAD
 		<maven.compiler.target>1.5</maven.compiler.target>
 		<maven.compiler.source>1.5</maven.compiler.source>
+=======
+		<maven.compiler.target>16</maven.compiler.target>
+		<maven.compiler.source>16</maven.compiler.source>
+>>>>>>> origin/malek
 	</properties>
 </project>

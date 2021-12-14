@@ -35,6 +35,9 @@ public class Enseignant {
 	public void affichage() {
 		System.out.println("done");
 	}
-
+	
+	public void ajouterEnseignant() {
+		//ajout
+	}
 
 }
