@@ -35,9 +35,16 @@ public class Enseignant {
 	public void affichage() {
 		System.out.println("done");
 	}
+<<<<<<< HEAD
 	
 	public void ajouterEnseignant() {
 		//ajout
+=======
+	public void amina()
+	{
+		System.out.println("methode ajouter de la part amina");
+
+>>>>>>> 30aa63a7595d65de1d6a0e9b6c7c34215ff1fbfb
 	}
 
 }

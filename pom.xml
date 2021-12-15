@@ -4,9 +4,12 @@
   <artifactId>1alt2Gr4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
+<<<<<<< HEAD
 
-		<maven.compiler.target>1.5</maven.compiler.target>
-		<maven.compiler.source>1.5</maven.compiler.source>
-
+	
+=======
+		<maven.compiler.target>15</maven.compiler.target>
+		<maven.compiler.source>15</maven.compiler.source>
+>>>>>>> 30aa63a7595d65de1d6a0e9b6c7c34215ff1fbfb
 	</properties>
 </project>
