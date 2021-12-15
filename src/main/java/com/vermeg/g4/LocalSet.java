@@ -41,5 +41,8 @@ public class LocalSet {
 			return false;
 		return true;
 	}
+	public void affichage() {
+		System.out.println("test");
+	}
 
 }
