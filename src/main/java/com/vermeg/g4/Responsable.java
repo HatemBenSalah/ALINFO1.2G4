@@ -68,4 +68,9 @@ public class Responsable {
 		System.out.println("amina master");
 
 	}
+	public void methodedeimen()
+	{
+		System.out.println("imen testing");
+
+	}
 	}
