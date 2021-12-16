@@ -43,5 +43,9 @@ public class Enseignant {
 
 	}
 	//commentaire
+	
+	public void imentest() {
+		System.out.println("testest");
+	}
 
 }
